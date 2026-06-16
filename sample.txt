@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 これはsample dayo!
+=======
+>>>>>>> parent of 93075df (sampleテキストの内容修正)
